@@ -1,18 +1,22 @@
-<h1 align="center">Newletter Signup Web App</h1>
-<p>A Newsletter Signup Web app built using NodeJs and Mailchimp Marketing API.</p>
+# <div align="center">📰 Newsletter Signup Page</iv>
 
-<h3>Deployed <a href="https://newsletter-signup-pvt.herokuapp.com/">Here</a></h3>
+<p align="center">A newsletter signup page built with Node.js and Mailchimp API to register users in the Mailchimp server</p>
 
-<h2>Requirements</h2>
+<p align="center"><a href="https://newsletter-signup-pvt.herokuapp.com/">Deployed version</a>
+
+## 🛠️ Technologies
+
 <ul>
-  <li>Node Js</li>
-    <ul>Modules Used:
-      <li>Express Js</li>
-      <li>Mailchimp Client Library</li>
-      <li>Body Parser</li>
-  </ul>
-  <li>Mailchimp API</li>
-  <li>Heroku (for Deployment)</li>
+  <li><a href="https://nodejs.org/en/">Node.js</a></li>
+  <li><a href="https://expressjs.com/pt-br/">Express</a></li>
+  <li><a href="https://mailchimp.com/developer/guides/get-started-with-mailchimp-api-3/">Mailchimp API</a></li>
+  <li><a href="https://devcenter.heroku.com/">Heroku</a></li>
 </ul>
 
+## ⚙️ Requirements
 
+<ul>
+  <li><a href="https://git-scm.com/">Git</a></li>
+  <li><a href="https://nodejs.org/en/">Node.js</a></li>
+  <li><a href="https://www.npmjs.com/">NPM</a></li>
+</ul>
