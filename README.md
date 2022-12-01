@@ -2,7 +2,7 @@
 
 <p align="center">A newsletter signup page built with Node.js and Mailchimp API to register users in the Mailchimp server</p>
 
-<p align="center"><a href="https://newsletter-signup-pvt.herokuapp.com/">Deployed version</a>
+<p align="center"><a href="https://newsletter-signup.up.railway.app/">Deployed version</a>
 
 ## 🛠️ Technologies
 
@@ -11,6 +11,7 @@
   <li><a href="https://expressjs.com/pt-br/">Express</a></li>
   <li><a href="https://mailchimp.com/developer/guides/get-started-with-mailchimp-api-3/">Mailchimp API</a></li>
   <li><a href="https://devcenter.heroku.com/">Heroku</a></li>
+  <li><a href="https://docs.railway.app/deploy/builds">Railways</a></li>
 </ul>
 
 ## ⚙️ Requirements
